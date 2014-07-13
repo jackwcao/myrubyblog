@@ -2,4 +2,5 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*] (http://railstutorial.og/)
-by [Jack Cao] 
+by [Jack Cao] good
+
