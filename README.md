@@ -2,5 +2,5 @@
 
 This is the first application for the
 [*Ruby on Rails Tutorial*] (http://railstutorial.og/)
-by [Jack Cao] good
+by [Jack Cao] change
 
